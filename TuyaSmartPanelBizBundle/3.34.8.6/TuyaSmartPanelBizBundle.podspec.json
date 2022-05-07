@@ -87,9 +87,6 @@
             "0.0.3"
         ],
         "TYFoundationKit": [],
-        "TYHealthModule": [
-            "1.0.3-rc.2"
-        ],
         "TYHybridContainer": [
             "1.6.1"
         ],
@@ -243,9 +240,6 @@
         ],
         "TYRCTHapticsManager": [
             "1.0.0"
-        ],
-        "TYRCTHealthManager": [
-            "1.3.0"
         ],
         "TYRCTHomeDevManager": [
             "1.2.2-rc.1"
@@ -471,9 +465,6 @@
             "5.54.0-tybizbundle-3.34.5.8"
         ],
         "TuyaRNApi/Core": [
-            "5.54.0-tybizbundle-3.34.5.8"
-        ],
-        "TuyaRNApi/Health": [
             "5.54.0-tybizbundle-3.34.5.8"
         ],
         "TuyaRNApi/IPC": [
